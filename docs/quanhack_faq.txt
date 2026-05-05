@@ -1,0 +1,357 @@
+QuAnHack Academy - Complete Course Catalog and Information Guide
+================================================================
+
+COMPLETE LIST OF ALL COURSES AT QUANHACK ACADEMY
+-------------------------------------------------
+QuAnHack Academy offers the following 10 courses:
+
+1. Python for Beginners - Fee: Rs 8000  - Duration: 6 weeks
+2. Data Science and Machine Learning - Fee: Rs 25000 - Duration: 3 months
+3. Full Stack Web Development using MERN Stack - Fee: Rs 30000 - Duration: 4 months
+4. Artificial Intelligence and Prompt Engineering - Fee: Rs 12000 - Duration: 6 weeks
+5. Python Automation and Web Scraping - Fee: Rs 15000 - Duration: 8 weeks
+6. Cybersecurity and Ethical Hacking - Fee: Rs 28000 - Duration: 3 months
+7. Cloud Computing with AWS - Fee: Rs 18000 - Duration: 2 months
+8. UI/UX Design - Fee: Rs 14000 - Duration: 2 months
+9. Digital Marketing and SEO - Fee: Rs 10000 - Duration: 6 weeks
+10. DevOps and Docker with Kubernetes - Fee: Rs 22000 - Duration: 3 months
+
+For detailed information about any specific course, just ask about it by name.
+
+ABOUT QUANHACK ACADEMY
+-----------------------
+QuAnHack Academy is an industry-focused technology training institute specialising in Artificial Intelligence, Data Science, Full Stack Development, Automation, and Cybersecurity. We operate at the intersection of AI and real-world business applications.
+
+Our mission is to bridge the gap between academic learning and industry requirements by providing hands-on, project-based training that makes students job-ready from day one.
+
+We have trained over 2000 students since our founding, with alumni working at top companies across India and internationally.
+
+Location: Online (Live classes via Zoom and Google Meet)
+Office Hours: Monday to Saturday, 9:00 AM to 7:00 PM IST
+Contact Email: admissions@quanhack.in
+Website: www.quanhack.in
+
+
+COURSES OFFERED
+---------------
+
+1. Python for Beginners
+   Duration: 6 weeks
+   Schedule: Weekends only, Saturday and Sunday, 10:00 AM to 1:00 PM IST
+   Fee: Rs 8000
+   EMI: Not available for this course
+   Eligibility: No prior experience needed. Anyone with basic computer knowledge can join.
+   Next Batch: 15 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes, upon completion
+   Placement Support: No (foundational course)
+
+   What you will learn:
+   Python basics, variables, data types, loops, and functions. Object-oriented programming concepts. File handling and exception management. Introduction to popular libraries like NumPy and Pandas. Mini projects to build your portfolio.
+
+   Who should join:
+   Complete beginners with no coding background. Students and fresh graduates exploring programming. Professionals looking to switch to tech. Anyone who wants to prepare for advanced courses.
+
+
+2. Data Science and Machine Learning
+   Duration: 3 months
+   Schedule: Monday, Wednesday, Friday from 7:00 PM to 9:00 PM IST
+   Fee: Rs 25000
+   EMI: Available at Rs 9000 per month for 3 months
+   Eligibility: Basic Python knowledge required, or completion of our Python for Beginners course
+   Next Batch: 1 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes, industry-recognised certificate
+   Placement Support: Yes, full placement assistance included
+
+   What you will learn:
+   Data collection, cleaning, and preprocessing. Exploratory data analysis and visualization using Matplotlib and Seaborn. Statistics and probability for data science. Machine learning algorithms including Linear Regression, Decision Trees, Random Forest, SVM, and KNN. Deep learning basics with TensorFlow and Keras. Natural Language Processing fundamentals. Model deployment using Flask and Streamlit. Real-world projects including customer churn prediction, sentiment analysis, and recommendation systems.
+
+   Who should join:
+   Python developers looking to move into AI and data. Students wanting a career in data science. Professionals looking to upskill in analytics. Anyone interested in building intelligent systems.
+
+
+3. Full Stack Web Development using MERN Stack
+   Duration: 4 months
+   Schedule: Tuesday and Thursday from 7:00 PM to 9:30 PM IST, Saturday from 10:00 AM to 1:00 PM IST
+   Fee: Rs 30000
+   EMI: Available at Rs 8000 per month for 4 months
+   Eligibility: Basic computer knowledge. No prior coding experience required.
+   Next Batch: 10 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes
+   Placement Support: Yes, full placement assistance included
+
+   What you will learn:
+   HTML5, CSS3, and responsive web design. JavaScript fundamentals and ES6 features. React.js for building modern user interfaces. Node.js and Express.js for backend development. MongoDB for database management. REST API design and development. Authentication using JWT. Git and GitHub for version control. Deployment using Vercel, Netlify, and AWS basics. Final capstone project: Build and deploy a complete web application.
+
+   Who should join:
+   Beginners who want to become full stack developers. Designers who want to learn coding. Backend developers who want to learn frontend. Anyone who wants to build and launch their own web products.
+
+
+4. Artificial Intelligence and Prompt Engineering
+   Duration: 6 weeks
+   Schedule: Saturday and Sunday from 2:00 PM to 5:00 PM IST
+   Fee: Rs 12000
+   EMI: Not available for this course
+   Eligibility: Basic computer literacy. No coding required.
+   Next Batch: 22 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes
+   Placement Support: No (skill enhancement course)
+
+   What you will learn:
+   Understanding how large language models work. Prompt engineering techniques for ChatGPT, Claude, and Gemini. Building AI-powered workflows and automations. Using AI tools for content creation, research, and productivity. Introduction to AI agents and autonomous systems. Building no-code and low-code AI applications. Practical use cases for business and freelancing.
+
+   Who should join:
+   Business professionals wanting to leverage AI at work. Freelancers looking to offer AI services to clients. Entrepreneurs wanting to build AI-powered products. Anyone curious about how modern AI tools work.
+
+
+5. Python Automation and Web Scraping
+   Duration: 8 weeks
+   Schedule: Tuesday and Thursday from 8:00 PM to 10:00 PM IST
+   Fee: Rs 15000
+   EMI: Not available for this course
+   Eligibility: Basic Python knowledge required
+   Next Batch: 5 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes
+   Placement Support: No
+
+   What you will learn:
+   Automating repetitive tasks using Python scripts. Web scraping with BeautifulSoup and Scrapy. Browser automation using Selenium and Playwright. Working with APIs and JSON data. Automating Excel, PDF, and email workflows. Scheduling and deploying automation scripts. Real-world projects including price tracker, job scraper, and automated report generator.
+
+   Who should join:
+   Python developers who want to automate tasks. Data analysts who want to collect data automatically. Professionals who want to save time with automation. Freelancers looking to offer automation services.
+
+
+6. Cybersecurity and Ethical Hacking
+   Duration: 3 months
+   Schedule: Monday and Wednesday from 8:00 PM to 10:00 PM IST, Saturday from 2:00 PM to 5:00 PM IST
+   Fee: Rs 28000
+   EMI: Available at Rs 10000 per month for 3 months
+   Eligibility: Basic networking knowledge preferred but not mandatory
+   Next Batch: 20 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes, with EC-Council aligned curriculum
+   Placement Support: Yes
+
+   What you will learn:
+   Networking fundamentals and protocols. Linux commands and system administration. Reconnaissance and information gathering. Vulnerability scanning and assessment. Web application security and OWASP Top 10. Network penetration testing. Social engineering and phishing awareness. Incident response and forensics basics. Capture the Flag challenges for practice. Preparation for CEH and CompTIA Security Plus certifications.
+
+   Who should join:
+   IT professionals wanting to move into security. Students interested in cybersecurity careers. System administrators who want to secure their infrastructure. Anyone interested in ethical hacking.
+
+
+7. Cloud Computing with AWS
+   Duration: 2 months
+   Schedule: Saturday and Sunday from 10:00 AM to 1:00 PM IST
+   Fee: Rs 18000
+   EMI: Not available for this course
+   Eligibility: Basic IT knowledge helpful but not mandatory
+   Next Batch: 8 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes
+   Placement Support: Yes
+
+   What you will learn:
+   AWS core services including EC2, S3, RDS, Lambda, and VPC. Cloud architecture and best practices. Infrastructure as Code using Terraform. CI/CD pipelines on AWS. Serverless computing and microservices. AWS cost management and optimisation. Preparation for AWS Cloud Practitioner and Solutions Architect certifications.
+
+   Who should join:
+   Developers who want to deploy applications on cloud. IT professionals transitioning to cloud roles. DevOps engineers wanting AWS expertise. Anyone preparing for AWS certifications.
+
+
+8. UI/UX Design
+   Duration: 2 months
+   Schedule: Tuesday, Thursday, and Saturday from 6:00 PM to 8:00 PM IST
+   Fee: Rs 14000
+   EMI: Not available for this course
+   Eligibility: No prior experience needed
+   Next Batch: 12 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes
+   Placement Support: Yes
+
+   What you will learn:
+   Design thinking and user research methods. Wireframing and prototyping using Figma. Visual design principles, typography, and colour theory. Building complete design systems. Usability testing and feedback collection. Designing for mobile and web platforms. Building a professional design portfolio. Handoff to developers using Figma.
+
+   Who should join:
+   Anyone interested in product design. Developers who want to improve their design skills. Marketing professionals who want to understand design. Freshers looking to build a design career.
+
+
+9. Digital Marketing and SEO
+   Duration: 6 weeks
+   Schedule: Monday, Wednesday, Friday from 6:00 PM to 8:00 PM IST
+   Fee: Rs 10000
+   EMI: Not available for this course
+   Eligibility: No prior experience needed
+   Next Batch: 18 June 2026
+   Mode: Live online with recorded backup sessions
+   Certificate: Yes
+   Placement Support: No
+
+   What you will learn:
+   Search engine optimisation and keyword research. Google Ads and pay-per-click advertising. Social media marketing across Instagram, LinkedIn, and Facebook. Email marketing and automation. Content marketing strategy. Google Analytics and data-driven marketing. Affiliate marketing basics.
+
+   Who should join:
+   Small business owners who want to grow online. Marketing professionals wanting digital skills. Freelancers looking to offer digital marketing services. Students interested in online marketing careers.
+
+
+10. DevOps and Docker with Kubernetes
+    Duration: 3 months
+    Schedule: Tuesday and Thursday from 7:00 PM to 9:00 PM IST, Saturday from 10:00 AM to 12:00 PM IST
+    Fee: Rs 22000
+    EMI: Available at Rs 8000 per month for 3 months
+    Eligibility: Basic Linux and programming knowledge required
+    Next Batch: 3 June 2026
+    Mode: Live online with recorded backup sessions
+    Certificate: Yes
+    Placement Support: Yes
+
+    What you will learn:
+    Linux administration and shell scripting. Git workflows and branching strategies. Docker containerisation and Docker Compose. Kubernetes orchestration and cluster management. Jenkins and GitHub Actions for CI/CD. Monitoring using Prometheus and Grafana. Infrastructure automation with Ansible. Cloud deployment on AWS and GCP.
+
+    Who should join:
+    Software developers wanting to learn DevOps practices. System administrators transitioning to cloud-native roles. Teams wanting to implement CI/CD pipelines. Anyone preparing for DevOps engineering roles.
+
+
+COURSE FEES SUMMARY
+--------------------
+Python for Beginners: Rs 8000 (no EMI)
+Digital Marketing and SEO: Rs 10000 (no EMI)
+Artificial Intelligence and Prompt Engineering: Rs 12000 (no EMI)
+UI/UX Design: Rs 14000 (no EMI)
+Python Automation and Web Scraping: Rs 15000 (no EMI)
+Cloud Computing with AWS: Rs 18000 (no EMI)
+DevOps and Docker with Kubernetes: Rs 22000 (EMI available)
+Data Science and Machine Learning: Rs 25000 (EMI available)
+Cybersecurity and Ethical Hacking: Rs 28000 (EMI available)
+Full Stack Web Development MERN: Rs 30000 (EMI available)
+
+
+DISCOUNTS AND OFFERS
+---------------------
+Early Bird Discount: 10 percent off if you register 2 weeks before the batch starts
+Group Discount: 15 percent off for groups of 3 or more students registering together
+Student Discount: 10 percent off with a valid student ID card
+Referral Bonus: Refer a friend who joins any course and get Rs 2000 cashback
+Alumni Discount: Existing QuAnHack alumni get 20 percent off on any second course
+Scholarship: Merit-based scholarships available for deserving students. Contact admissions team for details.
+
+
+PAYMENT INFORMATION
+--------------------
+Accepted Payment Methods: UPI including GPay, PhonePe, and Paytm. Bank transfer. Debit card. Credit card. Net banking.
+EMI Details: EMI is available for courses priced above Rs 20000. Zero cost EMI available through partner banks.
+Refund Policy: Full refund if you withdraw within 3 days of payment. 50 percent refund within 7 days. No refund after 7 days.
+Installment Option: Fees can be paid in 2 installments for select courses by prior arrangement with the admissions team.
+
+
+ELIGIBILITY AND ADMISSION
+--------------------------
+Minimum Age: 17 years and above
+Entrance Test: No entrance test required
+Admission Process: Fill the inquiry form, attend a free counselling call, pay the fee, and receive batch details
+Working Professionals: All batches scheduled during evenings or weekends
+International Students: Welcome. All classes conducted in English.
+Language: English, with Hindi explanations when needed
+
+
+LEARNING EXPERIENCE
+--------------------
+Class Format: Live via Zoom or Google Meet with full interaction
+Recordings: All sessions recorded, available for 6 months after course ends
+Missed Classes: Watch recordings or attend makeup sessions
+Study Material: Notes, slides, code files, datasets, and resources shared via Google Drive
+Assignments: Weekly assignments to reinforce concepts
+Projects: Hands-on projects and final capstone project for your portfolio
+Doubt Support: Dedicated doubt-clearing sessions twice a week
+Community: Private student community on Telegram for peer learning and networking
+Mentorship: One-on-one mentorship sessions available on request
+Batch Size: Maximum 30 students per batch for personalised attention
+
+
+PLACEMENT AND CAREER SUPPORT
+------------------------------
+Resume Building: Professional resume review and LinkedIn profile optimisation
+Mock Interviews: Technical and HR mock interviews with industry professionals
+Job Referrals: Direct referrals to 150 plus hiring partner companies
+Placement Statistics: Over 85 percent of students from placement courses get hired within 6 months
+Salary Range: Freshers placed at 3 LPA to 8 LPA depending on role and location
+Internship Opportunities: Top performers offered internships with partner companies during the course
+Hiring Partners: Alumni work at Infosys, Wipro, TCS, Accenture, funded startups, and international remote companies
+
+
+TECHNICAL REQUIREMENTS
+-----------------------
+Computer: Laptop or desktop with minimum 8 GB RAM recommended
+Operating System: Windows 10 or above, macOS, or Linux
+Internet: Stable broadband with minimum 5 Mbps speed
+Software: All required software is free. Installation guides provided during orientation.
+
+
+CERTIFICATE INFORMATION
+------------------------
+Type: Digital certificate with unique verification code
+Validity: Permanent, verifiable on our website
+Issuance: Within 7 working days of course completion
+Requirements: Minimum 80 percent attendance and submission of all assignments
+Format: PDF format, shareable on LinkedIn
+Physical Certificate: Available on request for Rs 500 including courier charges
+
+
+FREQUENTLY ASKED QUESTIONS
+----------------------------
+
+Q: Do I need any prior knowledge to join?
+A: Most beginner courses require no prior experience. For advanced courses like Data Science, basic Python is required. Check the eligibility section of each course.
+
+Q: Can I switch to a different batch after joining?
+A: Yes, within the first 7 days of the course, subject to seat availability.
+
+Q: Is there a free demo class?
+A: Yes, we offer a free demo class for all courses. Contact our admissions team to schedule one.
+
+Q: What if I fall behind in the course?
+A: You can watch recordings, attend makeup sessions, and get help during doubt-clearing sessions.
+
+Q: Do you offer corporate training?
+A: Yes, customised corporate training programs for teams and companies. Contact us for pricing.
+
+Q: Can I get a job guarantee?
+A: We do not provide a job guarantee, but over 85 percent of our students get placed within 6 months.
+
+Q: Are there any hidden fees?
+A: No hidden fees. The course fee covers everything including study material, projects, certificate, and placement support where applicable.
+
+Q: What happens if a class is cancelled?
+A: Cancelled classes are rescheduled and communicated 24 hours in advance.
+
+Q: What is the best course for a complete beginner?
+A: Python for Beginners is the best starting point. For non-coders interested in AI tools, the AI and Prompt Engineering course is ideal.
+
+Q: Which course leads to the highest salary?
+A: Data Science and Machine Learning, Full Stack Web Development, Cybersecurity, and DevOps typically lead to the highest salaries.
+
+Q: Can I do two courses at the same time?
+A: We recommend completing one course at a time for best results.
+
+Q: How do I enroll?
+A: Type enroll or contact and our admissions team will guide you through the process.
+
+Q: Are weekend-only courses available?
+A: Yes. Python for Beginners, AI and Prompt Engineering, and Cloud Computing with AWS are weekend-only courses.
+
+Q: Can working professionals manage these courses?
+A: Yes. All courses are scheduled after 6 PM or on weekends specifically for working professionals.
+
+Q: How do I contact the admissions team?
+A: Message us here on Telegram, email admissions@quanhack.in, or visit www.quanhack.in. We are available Monday to Saturday from 9 AM to 7 PM IST.
+
+
+CONTACT INFORMATION
+--------------------
+Email: admissions@quanhack.in
+Website: www.quanhack.in
+Office Hours: Monday to Saturday, 9:00 AM to 7:00 PM IST
+Response Time: Within 2 hours during office hours
